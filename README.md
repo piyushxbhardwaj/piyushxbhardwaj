@@ -48,3 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piyushxbhardwaj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=piyushxbhardwaj&theme=tokyonight"/>
+</p>
