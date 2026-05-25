@@ -42,7 +42,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushxbhardwaj&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=piyushxbhardwaj&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushxbhardwaj&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=piyushxbhardwaj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
