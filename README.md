@@ -161,7 +161,11 @@ AI-powered meeting intelligence platform with secure authentication, transcript 
 
 </p>
 
----
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/piyushxbhardwaj/piyushxbhardwaj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 # 🌐 Connect With Me
 
