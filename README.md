@@ -20,6 +20,7 @@ Building Production-Grade AI Systems, Backend APIs & Modern Web Applications
 # 👨‍💻 About Me
 
 I'm a **Computer Science graduate** passionate about building **AI-powered applications**, **scalable backend systems**, and **modern full-stack software**.
+I completed a **6-month Software Development Internship at Nahar Industrial Enterprises Ltd.**, where I contributed to the development, testing, debugging, and maintenance of internal software applications following SDLC practices.
 
 My interests span **Generative AI**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **Backend Engineering**, **Computer Vision**, and **System Design**. I enjoy turning ideas into production-ready applications with clean architecture and great user experiences.
 
